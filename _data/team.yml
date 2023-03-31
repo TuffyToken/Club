@@ -1,84 +1,84 @@
-- name: Dr. Wenlin Han
+- name: Trisha Shaishav Parikh
   is_pi: True
   is_current: True
-  position: Associate Professor, Computer Science
-  scholar: https://scholar.google.com/citations?user=EXdwp8gAAAAJ&hl=en
-  researchgate: https://www.researchgate.net/profile/Wenlin-Han
-  github: https://github.com/wenlinhan
-  twitter: 
+  position: President
   bio: >
-    Her research interests include Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications.
-  photo: wh.jpg
+    Trisha Shaishav Parikh is an MS student and teaching associate at Computer Science.
+  photo: Trisha_Shaishav_Parikh.jpeg
 
 
-- name: Dr. Chen Wang
+- name: Nitish Lele
   is_pi: True
   is_current: True
-  position: Professor, Visual Art
+  position: Vice President
   bio: >
-    Chen Wang (王琛) obtained a Master of Fine Arts degree from University of Iowa. 
-    He has taught at Texas Tech University as an Assistant Professor in Communication Design. 
-    He is currently a Professor teaching Graphic & Interactive Design at California State University, Fullerton. 
-    Chen’s research involves branding, publication, user experience, data visualization, and interface/interactive design. 
-    His work has been included in numerous national and international contests and exhibitions. 
-    He has been featured in New America Talent 19, 46th Annual International Award Exhibition, The 9th International Biennial of the Poster in Mexico (Mexico), Good 50x70 (Italy), 4 Block: VI International Triennial of Eco Poster (Ukraine), Madrid Gráfica (Spain), Txt + Experiment (Poland), Beijing Design Week (China) and China DataVis Exhibition (China). 
-    Chen designed the book “Knott’s Halloween Haunt – A Picture History” by Ted Dougherty. His design projects were published on numerous design books that distributed internationally by top publishers such as Rockport and RotoVision. His photography work has also been awarded and published by several international magazines such as Fotomen, Digital Camera and Capa.
-  photo: Chen_Wang.jpg
+    Nitish Lele is an MS student at Computer Science.
+  photo: Nitish_lele.png
 
-- name: Dr. Rong Jin
+- name: Dalton Caron
   is_pi: True
   is_current: True
-  position: Assistant Professor, Computer Science
+  position: Treasurer 
   scholar: https://scholar.google.com/citations?user=ONLyEOkAAAAJ&hl=en
   bio: >
-   I am an Assistant Professor in Computer Science at Cal State Fullerton. 
-   I am now an affiliated member of the TuffyVerse Lab and the CEDDI Lab. Before that, I received my Ph.D. in Computer Science from the University of Texas at Dallas, where I worked in the Data Communication and Data Management (DCDM) Laboratory led by Prof. Weili Wu and Prof. Ding-Zhu Du. 
-   Before then, I was a research assistant working on tele-immersive virtual and simulated collaborative learning environments for learning topics in science in the Multimedia Systems Laboratory led by Prof. Balakrishnan Prabhakaran and the Creative Automata Lab led by Prof. Paul Fishwick. 
-   Further before, I received my B.Eng. in Communication Engineering from Nanjing University of Posts & Telecommunications (NUPT), China.
-  photo: Rong_Jin.jpg
+   My name is Dalton Caron and I am a Computer Science MS student. 
+   I like programming with C/C++ and Rust. For fun, I like to play the accordion and go rock climbing. 
+   I attended my undergraduate program at Montana Technological University in Butte, Montana. 
+   Three interesting things about me - I idolize chef Gordon Ramsay, I very much love to eat sashimi whenever possible, and I like to read about eastern philosophy and Roman history when not reading technical books. 
+  photo: Dalton_Caron.png
 
 
-- name: Mayuri Dhanraj Kumbhare
-  is_pi: False
+- name: Hector Aguilar
+  is_pi: True
   is_current: True
-  position: Metaverse
-  photo: Mayuri_Dhanraj_Kumbhare.png
+  position: Board member
+  photo: Hector_Aguilar.jpg
   
-- name: Tai Nguyen
+
+- name: Brijesh Prajapati
   is_pi: False
   is_current: True
-  position: Metaverse
-  photo: Tai_Nguyen.jpg
+  position: Board member
+  photo: Brijesh_Prajapati.jpg
 
 
-- name: Trieu Nguyen
+- name: Wanki Woo
   is_pi: False
   is_current: True
-  position: Metaverse
-  photo: Trieu_Nguyen.jpg
+  position: Board member
+  photo: Wanki_Woo.jpg
 
 
-- name: Parva Parikh
+
+
+- name: Tyler Goodman
   is_pi: False
-  is_current: True
-  position: Blockchain
-  photo: Parva_Parikh.jpg
+  is_current: False
+  position: Founding President
+  photo: Tyler_Goodman.png
 
 
-- name: Kishore Shankar Abimanyu
+- name: Dano Nahabedian
   is_pi: False
-  is_current: True
-  position: Blockchain
-  photo: Kishore_Shankar_Abimanyu.jpeg
+  is_current: False
+  position: Vice President (2022)
+  photo: Dano_Nahabedian.jpeg
 
-- name: Shubhankar Sapa
-  is_pi: False
-  is_current: True
-  position: Blockchain
-  photo: Shubhankar_Sapa.jpg
 
-- name: Shivansh Vijay Nathani
+- name: Charles Ouyang
   is_pi: False
-  is_current: True
-  position: Blockchain
-  photo: Shivansh_Vijay_Nathani.JPG
+  is_current: False
+  position: Founding member
+  photo: 
+
+- name: Adrian Lawson
+  is_pi: False
+  is_current: False
+  position: Founding member
+  photo: 
+  
+- name: Kurt Prutsman
+  is_pi: False
+  is_current: False
+  position: Founding member
+  photo: 
