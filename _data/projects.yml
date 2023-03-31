@@ -35,4 +35,16 @@
   funding: 
   collaborators: 
   assignees: 
-  photo: gitcoin.png
+  photo: gitcoin.jpg
+  
+- name: Chainlink Hackathon
+  description: >
+    Build, connect, and celebrate with developers across the Chainlink ecosystem.
+    Fall 2021
+    OCT 22 - NOV 28
+  funding: 
+  collaborators: 
+  assignees: 
+  photo: chainlink.png
+  
+
