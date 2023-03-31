@@ -21,7 +21,7 @@
 
 - name: HackFS
   description: >
-     Virtual hackathon 
+     Virtual hackathon. 
      Build the decentralized web. 
      Jul 7 – Jul 31, 2020. 
   funding: 
@@ -31,7 +31,7 @@
 
 - name: Gitcoin
   description: >
-    Create solutions that empower digitally native communities to fund, build, and protect what matters
+    Create solutions that empower digitally native communities to fund, build, and protect what matters.
   funding: 
   collaborators: 
   assignees: 
@@ -40,8 +40,7 @@
 - name: Chainlink Hackathon
   description: >
     Build, connect, and celebrate with developers across the Chainlink ecosystem.
-    Fall 2021
-    OCT 22 - NOV 28
+    OCT 22 - NOV 28 Fall 2021
   funding: 
   collaborators: 
   assignees: 
