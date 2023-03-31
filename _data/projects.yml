@@ -1,8 +1,9 @@
-- name: TuffyVerse - a Virtual Campus in the Metaverse for Social Justice and Student Success
+- name: TuffyToken - A CSUF Blockchain Club Community Token
   description: >
-    TuffyVerse will provide an innovative solution for improving diversity, equity and inclusion to ensure equitable student success by assisting in the elimination of bias in teaching, mentoring, and advising processes. 
-    It provides an interactive and easy-to-comprehend pedestal for underrepresented student activities, advising, and collaborations with instructors, classmates, and advisors.
+    TuffyToken is the first experimental project launched by CSUF Blockchain Club. 
+    TuffyToken is a pure community-driven project which is built, owned and maintained by the community. 
+    TuffyToken will be mainly used to encourage students to participate in the Blockchain ecosystem.  
   funding: 
   collaborators: 
   assignees: 
-  photo: 459.png
+  photo: TuffyToken.png
