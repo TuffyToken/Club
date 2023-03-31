@@ -7,3 +7,32 @@
   collaborators: 
   assignees: 
   photo: TuffyToken.png
+
+- name: ETHOnline
+  description: >
+    ETHOnline is our way of celebrating an incredible year in Ethereum, bringing the community together at a time when we're kept apart.
+    Hackathon + Summits 
+    ETHGlobal's biggest event of the year.
+    Octber 2nd - 30th, 2020 
+  funding: 
+  collaborators: 
+  assignees: 
+  photo: ETHOnline.png
+
+- name: HackFS
+  description: >
+     Virtual hackathon 
+     Build the decentralized web. 
+     Jul 7 – Jul 31, 2020. 
+  funding: 
+  collaborators: 
+  assignees: 
+  photo: hackfs.png
+
+- name: Gitcoin
+  description: >
+    Create solutions that empower digitally native communities to fund, build, and protect what matters
+  funding: 
+  collaborators: 
+  assignees: 
+  photo: gitcoin.png
