@@ -1,16 +1,16 @@
 # Site settings
-title: A multi-disciplinary Web 3.0 research lab at California State University, Fullerton
-lab_name: TuffyVerse Lab
+title: The Blockchain club at California State University, Fullerton
+lab_name: Blockchain Club
 author: >
   Wenlin Han
 institution: California State University, Fullerton
 email: whan@fullerton.edu
 description: >
-  A multi-disciplinary Web 3.0 research lab at California State University, Fullerton
+  The Blockchain club at California State University, Fullerton
 baseurl: ""
-url: "https://tuffyverselab.github.io"
+url: "https://tuffytoken.github.io/"
 twitter_username: 
-github_username:  TuffyVerse-Lab
+github_username:  tuffytoken
 images_dir: "/images/"
 
 # Build settings
