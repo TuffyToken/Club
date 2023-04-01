@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Award
 permalink: /blog/
 toggle: off
 rank: 5
