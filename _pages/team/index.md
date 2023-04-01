@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team
+title: Member
 permalink: /team/
 toggle: on
 rank: 1
