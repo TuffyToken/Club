@@ -35,18 +35,23 @@
   
 
 - name: Brijesh Prajapati
-  is_pi: False
+  is_pi: True
   is_current: True
   position: Board member
   photo: Brijesh_Prajapati.jpg
 
 
 - name: Wanki Woo
-  is_pi: False
+  is_pi: True
   is_current: True
   position: Board member
   photo: Wanki_Woo.jpg
 
+- name: Dr. Wenlin Han
+  is_pi: True
+  is_current: True
+  position: Faculty Advisor
+  photo: wh.jpg
 
 
 
