@@ -2,7 +2,7 @@
 layout: page
 title: Award
 permalink: /blog/
-toggle: off
+toggle: true
 rank: 3
 ---
 
