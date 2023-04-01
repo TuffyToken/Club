@@ -3,7 +3,7 @@ layout: page
 title: Award
 permalink: /blog/
 toggle: off
-rank: 5
+rank: 3
 ---
 
 <ul class="post-list">
