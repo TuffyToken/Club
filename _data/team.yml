@@ -51,8 +51,8 @@
 
 
 - name: Hector Aguilar
-  is_pi: True
-  is_current: True
+  is_pi: False
+  is_current: False
   position: Board member
   bio: >
     Hector Aguilar is an MS student at Computer Science.
@@ -60,8 +60,8 @@
   
 
 - name: Brijesh Prajapati
-  is_pi: True
-  is_current: True
+  is_pi: False
+  is_current: False
   position: Board member
   bio: >
     Brijesh Prajapati is an MS student at Computer Science.
@@ -69,22 +69,12 @@
 
 
 - name: Wanki Woo
-  is_pi: True
-  is_current: True
+  is_pi: False
+  is_current: False
   position: Board member
   bio: >
     Wanki Woo is an MS student at Computer Science.
   photo: Wanki_Woo.jpg
-
-- name: Dr. Wenlin Han
-  is_pi: True
-  is_current: True
-  position: Faculty Advisor
-  website: https://wenlinhan.github.io/
-  bio: >
-    Dr. Wenlin Han is an associate professor at Computer Science.
-  photo: wh.jpg
-
 
 
 - name: Tyler Goodman
