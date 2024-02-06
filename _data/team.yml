@@ -1,24 +1,44 @@
+- name: Reece Bailey
+  is_pi: true
+  is_current: true
+  position: President 2023 - now
+  bio: >
+  My name is Reece Bailey I am currently Junior at California State University, Fullerton Majoring in computer science. 
+  And I have a deep passion for cryptocurrencies and Blockchain technologies. 
+  My hobbies consist of traveling, snowboarding, playing video games, and creating new tokens on the Blockchain!   
+  photo: Reece_Bailey.jpeg
+
+- name: Alexander Koo
+  is_pi: true
+  is_current: true
+  position: Treasurer 2023 - now
+  bio: >
+  Hello! I'm Alexander Koo, currently in my sophomore year at California State University, Fullerton, where I'm majoring in Computer Science. The year 2023-2024 finds me deeply engrossed in the fascinating world of Blockchain technology, its potential applications, and its ability to positively impact our future.
+Staying active is important to me, so I dedicate three days a week to weightlifting and fill the rest of my week with rock climbing, striking a balance between strength and agility. On the intellectual front, I'm passionate about competitive programming and continually expanding my knowledge in finance.
+In my downtime, I enjoy a variety of pursuits, from the strategic depths of chess and the fast-paced excitement of badminton to immersing myself in the digital realms of video games. Relaxing often involves watching movies or TV shows, a perfect way to unwind after a day filled with physical and mental challenges. 
+  photo: Alexander_Koo.jpg
+
 - name: Trisha Shaishav Parikh
-  is_pi: True
-  is_current: True
-  position: President
+  is_pi: False
+  is_current: False
+  position: President 2021 - 2023
   bio: >
     Trisha Shaishav Parikh is an MS student and teaching associate at Computer Science.
   photo: Trisha_Shaishav_Parikh.jpeg
 
 
 - name: Nitish Lele
-  is_pi: True
-  is_current: True
-  position: Vice President
+  is_pi: False
+  is_current: False
+  position: Vice President 2021 - 2023
   bio: >
     Nitish Lele is an MS student at Computer Science.
   photo: Nitish_lele.png
 
 - name: Dalton Caron
-  is_pi: True
-  is_current: True
-  position: Treasurer 
+  is_pi: False
+  is_current: False
+  position: Treasurer 2021 - 2023
   bio: >
    My name is Dalton Caron and I am a Computer Science MS student. 
    I like programming with C/C++ and Rust. For fun, I like to play the accordion and go rock climbing. 
